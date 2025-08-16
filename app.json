@@ -89,6 +89,7 @@
     }
   },
   "homeyCommunityTopicId": 56678,
+  "source": "https://github.com/balmli/no.almli.utilitycost",
   "flow": {
     "triggers": [
       {
